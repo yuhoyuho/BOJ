@@ -7,10 +7,8 @@ import java.util.*;
 
 public class _1981 {
     static int n, result;
-    static final int INF = Integer.MAX_VALUE;
-    static int[][] map;
-    static int[] num;
 
+    static int[][] map;
     static int[] dx = {-1, 0, 1, 0};
     static int[] dy = {0, 1, 0, -1};
 
